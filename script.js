@@ -7,7 +7,7 @@ const cableData = [
     { distance: 2000, connector: 'SC ou LC', standard: '100Base-FX', type: 'Fibra: Multimodo', maxDistance: '2 km', speed: '100 Mbps' },
     { distance: 550, connector: 'SC ou LC', standard: '1000Base-SX', type: 'Fibra: Multimodo', maxDistance: '550 m', speed: '1 Gbps' },
     { distance: 10000, connector: 'SC ou LC', standard: '1000Base-LX', type: 'Fibra: Monomodo', maxDistance: '10 km', speed: '1 Gbps' },
-    { distance: 10000, connector: 'SC ou LC', standard: '1000Base-LX', type: 'Fibra: Multimodo', maxDistance: '550 m', speed: '1 Gbps' },
+    { distance: 550, connector: 'SC ou LC', standard: '1000Base-LX', type: 'Fibra: Multimodo', maxDistance: '550 m', speed: '1 Gbps' },
     { distance: 300, connector: 'LC', standard: '10GBase-SR', type: 'Fibra: Multimodo', maxDistance: '300 m', speed: '10 Gbps' },
     { distance: 10000, connector: 'LC', standard: '10GBase-LR', type: 'Fibra: Monomodo', maxDistance: '10 km', speed: '10 Gbps' },
     { distance: 150, connector: 'MPO', standard: '40GBase-SR4', type: 'Fibra: Multimodo', maxDistance: '150 m', speed: '40 Gbps' },
